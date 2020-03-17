@@ -1,0 +1,9 @@
+.circle {
+	border-radius: 50%;
+	width: 0px;
+	height: 0px;
+	border-width: 300px;
+	border-style: solid;
+	border-color: yellow green blue red;
+	transform: rotate(45deg);
+}
