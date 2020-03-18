@@ -1,0 +1,51 @@
+nav li{ display: inline;
+	font-size: 15px;
+	font-family: sans-serif;
+	margin-right: 30px;}
+
+nav a {
+	text-decoration: none;
+	color: red;
+}
+
+nav a:hover {
+	text-decoration: underline;
+	color: darkblue;
+}
+
+button{ background-color: none;
+		border: none;
+		color: black;
+		padding: 10px 25px    
+	}
+button:hover{
+	background-color: black;
+	color: white;
+}
+.redButton{ border: 2px solid red;
+
+}
+.redButton:hover{ background-color: red;
+
+}
+.blueButton{ border:  2px solid blue;
+
+}
+.blueButton:hover{ background-color: blue;
+
+}
+h1 {
+	color: blue;
+}
+h2 { 
+	color: blue;
+	font-size: 30px;  
+}
+li {font-weight: bold;
+}
+table, th, td { 
+	border: 1px solid black; }
+
+form input, form select {
+	display: block;
+}
